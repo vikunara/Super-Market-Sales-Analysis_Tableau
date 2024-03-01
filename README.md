@@ -1,6 +1,7 @@
 
 # Supermarket Sales Analysis Dashboard
 This is the README file for the Supermarket Sales Analysis Dashboard, created with Tableau.
+LINK : https://public.tableau.com/app/profile/vikash.nara/viz/SuperMarketSalesAnalysis_16961910079130/Dashboard1
 
 About
 
